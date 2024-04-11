@@ -5,7 +5,7 @@ I'm a Frontend Web Developer and UX/UI Graphic Designer with a passion for makin
 
 ## Skills
 - **Programming Languages:** HTML5, CSS, Javascript.
-- **Frameworks & Technologies:** ReactJS, 📱 React Native, NextJS, Firebase.
+- **Frameworks & Technologies:** ReactJS, 📱 React Native, NextJS, Firebase ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34).
 - **Design & Development:** Figma, Adobe XD, Photoshop, Storybook.
 - **Other:** Artificial Intelligent, Neural Network, Tensorflow.
 
@@ -26,6 +26,8 @@ I'm a Frontend Web Developer and UX/UI Graphic Designer with a passion for makin
 - Personal Website: [My Personal Website](https://raphaelrichardsonb.web.app)
 
 Feel free to reach out if you have any questions or collaboration opportunities!
+
+
 
 
 <!--

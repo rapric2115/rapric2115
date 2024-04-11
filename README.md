@@ -1,20 +1,26 @@
 ### Hi there 👋
 ### I'm Raphael Richardson! 👋
 
-I'm a Frontend Web Developer and UX/UI Graphic Designer with a passion for making contributing to open-source more approachable, creating technology to elevate people life. I enjoy working with ReactJS, React Native, and I'm constantly exploring new technologies to embrand my skills. With 3+ years of experience in Frontend Developer and 4+ years of experience in the UX/UI Design world.
+I'm a Frontend Web Developer and UX/UI Graphic Designer with a passion for making contributing to open-source more approachable, creating technology to elevate people life. I enjoy working with ReactJS, React Native, and I'm constantly exploring new technologies to embrand my skills. With 3+ years of experience as a Frontend Developer and 4+ years of experience as a the UX/UI Design world.
 
 ## Skills
 - **Programming Languages:** HTML5, CSS, Javascript.
-- **Frameworks & Technologies:** ReactJS, 📱 React Native, NextJS, 📱 Flutter.
+- **Frameworks & Technologies:** ReactJS, 📱 React Native, NextJS.
 - **Design & Development:** Figma, Adobe XD, Photoshop, Storybook.
 - **Other:** Artificial Intelligent, Neural Network.
+
+ ## - 🌱 I’m currently learning 
+ - **TENSORFLOW**
+ - **📱 Flutter**
+ - **NEURAL NETWORK**
+ - **MACHINE LEARNING**
 
  ## My Hobby
  - **CODE:** ⌨,
  - **PLAY GUITAR:** 🎸
 
 
-## Get in Touch
+## - 📫 How to reach me: 
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/raprichardson)
 - Email: [Your Email Address](raphael.richardson@gmail.com)
 - Personal Website: [Your Personal Website](https://raphaelrichardsonb.web.app)

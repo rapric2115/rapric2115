@@ -1,7 +1,6 @@
 ### Hi there 👋
-#I'm Raphael Richardson! 👋
+### I'm Raphael Richardson! 👋
 
-## About Me
 I'm a Frontend Web Developer and UX/UI Graphic Designer with a passion for making contributing to open-source more approachable, creating technology to elevate people life. I enjoy working with ReactJS, React Native, and I'm constantly exploring new technologies to embrand my skills. With 3+ years of experience in Frontend Developer and 4+ years of experience in the UX/UI Design world.
 
 ## Skills

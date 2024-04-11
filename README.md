@@ -5,13 +5,35 @@ I'm a Frontend Web Developer and UX/UI Graphic Designer with a passion for makin
 
 ## Skills
 - **Programming Languages:** HTML5, CSS, Javascript.
-- **Frameworks & Technologies:** ReactJS, 📱 React Native, NextJS, ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34).
-- **Design & Development:** Figma, Adobe XD, Photoshop, Storybook.
+- **Frameworks & Technologies:**
+- ReactJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS Logo" width="30" height="30">,
+- 📱 React Native <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Logo" width="30" height="30">,
+- NextJS <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS logo" width="30" height="30">,
+- ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg), <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase Logo" width="30" height="30">,
+- Typescript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="30" height="30">,
+- ChartJS <img src="https://www.chartjs.org/media/logo-title.svg" alt="ChartJS" width="30" height="30">,
+-  CSS3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="30" height="30">,
+-  Sass <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass Logo" width="30" height="30">,
+- Javasscript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30">,
+- Bootstrap <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="30" height="30">,
+- Tailwind <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind Logo" width="30" height="30">,
+- HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html Logo" width="30" height="30">.
+
+
+- **Design & Development:**
+- Figma <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma Logo" width="30" height="30">,
+- Adobe XD,
+- Photoshop <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30">,
+- Storybook,
+- Illustartor <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="30" height="30">
+- Git <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="30" height="30">,
+- Postman <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman logo" width="30" height="30">
+
 - **Other:** Artificial Intelligent, Neural Network, Tensorflow.
 
  ## - 🌱 I’m currently learning 
- - **TENSORFLOW**
- - **📱 Flutter  ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)**
+ - **TENSORFLOW <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="30" height="30">**
+ - **📱 Flutter  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)" alt="Flutter Logo" width="30" height="30">**
  - **NEURAL NETWORK**
  - **MACHINE LEARNING**
 
@@ -29,60 +51,6 @@ I'm a Frontend Web Developer and UX/UI Graphic Designer with a passion for makin
 
 ![Streak-Stats](https://github-readme-streak-stats.herokuapp.com/?user=rapric2115&)
 
-</br>
-<p align="left"> 
-  
- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
- 
- ![Chartjs](https://www.chartjs.org/media/logo-title.svg)
- 
-![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
- 
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
- 
- 
- 
- 
-![Framer](https://www.vectorlogo.zone/logos/framer/framer-icon.svg)
- 
- <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
- 
- ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) 
- 
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
- 
-![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)
- 
- ![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
- 
-![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg)
- 
- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
- 
- ![NextJS](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) 
- 
- ![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
- 
- 
- 
-![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
- 
- ![ReactJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
- 
-![ReactNative](https://reactnative.dev/img/header_logo.svg)
- 
-![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
- 
-![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
- 
-![Tensorflow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
- 
-![Typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
- 
- 
-
-
-</br>
 
 Feel free to reach out if you have any questions or collaboration opportunities!
 

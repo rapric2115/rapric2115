@@ -21,9 +21,9 @@ I'm a Frontend Web Developer and UX/UI Graphic Designer with a passion for makin
 
 
 ## - 📫 How to reach me: 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/raprichardson)
-- Email: [Your Email Address](raphael.richardson@gmail.com)
-- Personal Website: [Your Personal Website](https://raphaelrichardsonb.web.app)
+- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/raprichardson)
+- Email: [By My Email Address raphael.richardson@gmail.com](raphael.richardson@gmail.com)
+- Personal Website: [My Personal Website](https://raphaelrichardsonb.web.app)
 
 Feel free to reach out if you have any questions or collaboration opportunities!
 

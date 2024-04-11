@@ -5,9 +5,9 @@ I'm a Frontend Web Developer and UX/UI Graphic Designer with a passion for makin
 
 ## Skills
 - **Programming Languages:** HTML5, CSS, Javascript.
-- **Frameworks & Technologies:** ReactJS, 📱 React Native, NextJS.
+- **Frameworks & Technologies:** ReactJS, 📱 React Native, NextJS, Firebase.
 - **Design & Development:** Figma, Adobe XD, Photoshop, Storybook.
-- **Other:** Artificial Intelligent, Neural Network.
+- **Other:** Artificial Intelligent, Neural Network, Tensorflow.
 
  ## - 🌱 I’m currently learning 
  - **TENSORFLOW**

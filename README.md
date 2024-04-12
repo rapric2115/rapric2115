@@ -36,8 +36,7 @@ I'm a Frontend Web Developer and UX/UI Graphic Designer with a passion for makin
 - Email: [By My Email Address raphael.richardson@gmail.com](raphael.richardson@gmail.com)
 - Personal Website: [My Personal Website](https://raphaelrichardsonb.web.app)
 
-## - Personal Website PageSpeed Insights: 
-![PageSpeed](https://pagespeed-insights.herokuapp.com?url=https://raphaelrichardsonb.web.app)
+
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rapric2115&show_icons=true&locale=en&layout=compact)
 

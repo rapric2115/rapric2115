@@ -37,6 +37,8 @@ I'm a Frontend Web Developer and UX/UI Graphic Designer with a passion for makin
 - Personal Website: [My Personal Website](https://raphaelrichardsonb.web.app)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapric2115&layout=compact)
+
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rapric2115&show_icons=true&locale=en&layout=compact)
 
 ![Streak-Stats](https://github-readme-streak-stats.herokuapp.com/?user=rapric2115&)

@@ -38,6 +38,7 @@ I'm a Frontend Web Developer and UX/UI Graphic Designer with a passion for makin
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapric2115&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapric2115&stats_format=bytes)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapric2115&layout=compact&theme=radical)
 
